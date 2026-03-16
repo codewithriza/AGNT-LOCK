@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🔐 AGNT-LOCK
+  <h1><code> 🔐 AGNT-LOCK</code></h1>
+
 
 ### The Context Traffic Controller for Multi-Agent Repositories
 
