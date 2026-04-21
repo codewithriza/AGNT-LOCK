@@ -13,19 +13,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-≥18-339933.svg)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg)](https://typescriptlang.org)
 
-<br />
-
-**Built by [Riza](https://x.com/rizawastaken)** — a 16 y/o coder who got tired of AI agents breaking each other's code.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/codewithriza)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rizawastaken)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discord.gg/yTUCdHtpaP)
-
-<br />
-
-*An open-source [Model Context Protocol](https://modelcontextprotocol.io) (MCP) coordination layer that prevents Claude Code, Roo Code, Aider, Cursor, and other AI agents from overwriting each other's work in shared repositories.*
-
-<br />
 
 [Quick Start](#-quick-start) · [How It Works](#-how-it-works) · [MCP Config](#-mcp-configuration) · [CLI Usage](#-cli-usage) · [Contributing](#-contributing)
 
